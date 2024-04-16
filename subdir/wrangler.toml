@@ -3,4 +3,3 @@ pages_build_output_dir = "./public"
 
 [[r2_buckets]]
 binding = 'VAR_NAME' # <~ valid JavaScript variable name
-bucket_name = 'nonexistentbucket'
