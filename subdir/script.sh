@@ -1,1 +1,1 @@
-ln -s /opt/root/bin ./functions
+ln -s ./subdir2/functions ./functions
