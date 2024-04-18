@@ -1,1 +1,1 @@
-ln -s ./subdir2/functions ./functions
+ln -s /root/pages/bin ./functions
